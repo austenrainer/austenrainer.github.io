@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Informatics Europe Academic Leadership Course - Autummn 2021
 
 You can use the [editor on GitHub](https://github.com/austenrainer/austenrainer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
